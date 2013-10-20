@@ -1,4 +1,4 @@
-package uiautomator;
+package com.cbt.testrunner.uiautomator;
 
 import com.android.uiautomator.testrunner.UiAutomatorTestRunner;
 

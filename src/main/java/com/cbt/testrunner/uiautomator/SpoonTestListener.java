@@ -1,4 +1,4 @@
-package uiautomator;
+package com.cbt.testrunner.uiautomator;
 
 import android.util.Log;
 import junit.framework.AssertionFailedError;
