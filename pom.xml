@@ -116,8 +116,8 @@
       </plugins>
    </build>
   <scm>
-    <connection>scm:git:git@github.com:i11/${artifactId}.git</connection>
-    <developerConnection>scm:git:git@github.com:i11/${artifactId}.git</developerConnection>
-    <url>https://github.com/i11/${artifactId}</url>
+    <connection>scm:git:git@github.com:i11/${project.artifactId}.git</connection>
+    <developerConnection>scm:git:git@github.com:i11/${project.artifactId}.git</developerConnection>
+    <url>https://github.com/i11/${project.artifactId}</url>
   </scm>
 </project>
